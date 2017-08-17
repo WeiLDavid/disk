@@ -1,9 +1,8 @@
 <html>
 <head>
-<title>Download File - tTorrent (CHS Modified)</title>
 </head>
 <body>
-<a><b>Download Page</b></a>
+<a><b>Download Page</b></a><br/>
 <div1>
 <a>Download via MediaFire Disk:</a><br>
 <a href="http://www.mediafire.com/file/wf9o7hmsfcx2xjb/tTorrent.apk">Primary Download Link</a>
